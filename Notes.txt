@@ -1,1 +1,3 @@
 this is a sample file fr workshop 13 - Github
+
+this is the second line .. modified for Exercise 6
